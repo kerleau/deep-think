@@ -1,0 +1,7 @@
+$estilos:(
+    tipoFuente:14px
+);
+
+#navfootprincipal {
+    font-size:map-get($estilos, tipoFuente ) ;
+}
