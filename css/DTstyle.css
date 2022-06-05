@@ -21,7 +21,7 @@ header {
         background-color: #ff9a3e; }
 
 body {
-  background-color: #03071e; }
+  background-color: white; }
 
 p {
   font-size: 16px;
@@ -46,7 +46,7 @@ h3, p, form {
   padding: 0;
   margin: 0;
   list-style-type: none;
-  color: #03071e;
+  color: white;
   font-weight: 510; }
 
 a:hover {
@@ -67,3 +67,6 @@ header {
 
 #navheadprincipal div a, #navheadprincipal div h3, #navfootprincipal nav a {
   color: white; }
+
+#bienvenidacentral h1, #bienvenidacentral div div h3, #bienvenidacentral p, #carouselExampleIndicators p {
+  color: #03071e; }
